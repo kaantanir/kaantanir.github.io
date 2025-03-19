@@ -6,7 +6,6 @@
 void computeHomeValue(void);
 	
 	int main() {
-		int homePopularity, homeSize, homeValue;
 		
 	    computeHomeValue();
 		
